@@ -1,0 +1,16 @@
+#txt{
+    resize: none;
+    width:100%;
+    border:black solid 2px;
+    height:300px;
+    overflow:scroll;
+    margin-top:1%;
+}
+.box{
+    width:24.8%;
+    border:1px solid gray;
+    display: inline-block;
+    vertical-align: top;
+    height:200px;
+    text-align: center;
+}
